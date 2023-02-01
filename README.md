@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  
  
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gudlad&theme=blue-green)
   
