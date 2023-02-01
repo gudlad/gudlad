@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&show_icons=true)
-  
-![Profile View Counter](https://komarev.com/ghpvc/?username=gudlad)
-  
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =gudlad/Android_basic_projects)
- 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gudlad&theme=blue-green)
   
