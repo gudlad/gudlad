@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gudlad)
   
-<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here) -->
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = gudlad/)
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gudlad&theme=blue-green)
   
