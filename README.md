@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&show_icons=true)
  
  
-![GitHub Contributors Image](https://contrib.rocks/image?gudlad)
  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+  
