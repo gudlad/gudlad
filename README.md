@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
 
 ### Hi there 👋 welcome to my github profile.
 
