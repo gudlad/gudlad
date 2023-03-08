@@ -1,7 +1,5 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
-![Visitor Count](https://profile-counter.glitch.me/{gudlad}/count.svg)
-### Hi there 👋 welcome to my github profile.
 
+### Hi there 👋 welcome to my github profile.
 <!-- 
 <!-- **gudlad/gudlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
