@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 ### Hi there 👋 welcome to my github profile.
 
 <!-- 
