@@ -41,4 +41,4 @@ I'm GURUPRASAD, a student at SDM Institute of Technology, Ujire
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gudlad&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
