@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
+
+### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gudlad&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&show_icons=true)
  
 
