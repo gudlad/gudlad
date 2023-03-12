@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=gudlad&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=gudlad&style=flat-square&color=blue" alt=""/> -->
 
 ### Hi there 👋 welcome to my github profile.
 <!-- 
