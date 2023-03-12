@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&show_icons=true)
  
 
