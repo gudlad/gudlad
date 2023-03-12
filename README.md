@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gudlad&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&show_icons=true)
- 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gudlad&theme=blue-green)
- 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=gudlad&theme=dark&background=00000&show_icons=true)
