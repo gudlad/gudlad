@@ -1,11 +1,10 @@
 
 ### Hi there 👋 welcome to my github profile.
-<!-- 
-<!-- **gudlad/gudlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+**gudlad/gudlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### :woman_technologist: About Me :
 
-I am final year undergraduate student from SDMIT, UJIRE
 - 🔭 I’m currently working on my final year project ...
 - 🌱 I’m currently learning ML related stuff ...
 - 👯 I’m looking to collaborate on .java related projects ...
